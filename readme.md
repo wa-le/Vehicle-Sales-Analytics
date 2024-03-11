@@ -1,4 +1,4 @@
-## The aim of this project is to analyze a vehicle sales dataset inorder to gain insight from the data.
+## The aim of this project is to analyze a vehicle sales dataset in order to gain insight from the data.
 
 ### The following steps were carried out:
 - Data Collection - Get Sales Data from Kaggle

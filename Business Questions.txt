@@ -1,0 +1,6 @@
+ - Total annual sales
+ - Annual quantity of vehicle sold
+ - Most expensive car sold on a yearly basis
+ - Quantity of vehicles sold based on color
+ - Annual Total vehicles sold per company
+ - Most vehicle sold by body type

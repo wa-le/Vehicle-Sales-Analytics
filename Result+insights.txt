@@ -1,0 +1,19 @@
+- Most vehicle color sold between 1990 and 2015 are color black with over 93,000 sold and secondly color white with over 89,000 sold. While the lowest vehicle color sold are yellow and off-white with less than 1000 sold.
+
+- In 2013, over $1.5Billion was made in sales with 87,467 vehicles sold, followed by 2012 where over $1.4Billion was made in sales with 87,380 vehicles sold. Meanwhile the year with lowest sales with $47,175 in sales and 33 vehicles sold.
+
+- Over the years, the Nissan Altima was the most vehicle sold with over 16,000 sold and the RAM 1500 was the least sold with 2,838 sold.
+
+- The most expensive car in 1990 was the Chevrolet C/K 1500 Series and it sold for $11,500. The most expensive car sold in 2015 was the Mercedes Benz S-Class which sold for $173,000.
+
+- Ford brought in over $1.2billion, Chevrolet brought in over $640million and Nissan brought in over $517million in sales, making them the top 3 vehicle manufacturers that brought in the most money for the seller over the years.
+
+- Lotus brought in $40800, Geo brought in $9225 and daewoo brought in $900 in sales, making them the top 3 vehicle manufacturers that brought in the least money for the seller over the years.
+
+- Manufacturer and most model sold over the years and count of vehicles sold
+	Nissan - Altima -    16,346
+	Ford - Fusion -      12,116
+	Toyota - Camry -     10,986
+	Honda - Accord -     8,547
+	Chevrolet - Impala - 7,500
+	
